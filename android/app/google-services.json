@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "902073070714",
+    "project_id": "flutter-users-3a434",
+    "storage_bucket": "flutter-users-3a434.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902073070714:android:3ccb5ca7783e4f1cd3f7c3",
+        "android_client_info": {
+          "package_name": "net.itshuntra.kanokpon1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVfkvrhpVhvwW59sRK68AAyKPNlFG7PnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
