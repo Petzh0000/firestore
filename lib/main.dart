@@ -42,6 +42,18 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'บทที่ 15',
+      theme: ThemeData(
+        primarySwatch: Colors.purple,
+        floatingActionButtonTheme: FloatingActionButtonThemeData(
+          backgroundColor: Colors.purple,
+        ),
+        appBarTheme: AppBarTheme(
+          backgroundColor: Colors.purple,
+        ),
+        snackBarTheme: SnackBarThemeData(
+          backgroundColor: Colors.purple,
+        ),
+      ),
       debugShowCheckedModeBanner: false,
       home: ListPage(),
     );
